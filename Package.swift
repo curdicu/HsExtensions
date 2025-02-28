@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "HsExtensions.Swift",
+    name: "HsExtensions",
     platforms: [
         .iOS(.v13),
     ],
